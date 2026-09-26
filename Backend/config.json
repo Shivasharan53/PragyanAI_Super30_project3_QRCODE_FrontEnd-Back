@@ -5,7 +5,7 @@
 
     "cors_origins": [
         "*",
-        "https://joyful-kangaroo-44b997.netlify.app/"
+        "https://shiva-qrcode-project2.netlify.app/"
     ],
 
     "max_upload_size_mb": 5
